@@ -1,0 +1,15 @@
+C:\Users\NURCAN\source\repos\mp3\mp3\obj\Debug\mp3.csprojAssemblyReference.cache
+C:\Users\NURCAN\source\repos\mp3\mp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\NURCAN\source\repos\mp3\mp3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\NURCAN\source\repos\mp3\mp3\obj\Debug\mp3.csproj.ResolveComReference.cache
+C:\Users\NURCAN\source\repos\mp3\mp3\obj\Debug\mp3.Form1.resources
+C:\Users\NURCAN\source\repos\mp3\mp3\obj\Debug\mp3.Properties.Resources.resources
+C:\Users\NURCAN\source\repos\mp3\mp3\obj\Debug\mp3.csproj.GenerateResource.cache
+C:\Users\NURCAN\source\repos\mp3\mp3\obj\Debug\mp3.csproj.CoreCompileInputs.cache
+C:\Users\NURCAN\source\repos\mp3\mp3\bin\Debug\mp3.exe.config
+C:\Users\NURCAN\source\repos\mp3\mp3\bin\Debug\mp3.exe
+C:\Users\NURCAN\source\repos\mp3\mp3\bin\Debug\mp3.pdb
+C:\Users\NURCAN\source\repos\mp3\mp3\bin\Debug\Interop.WMPLib.dll
+C:\Users\NURCAN\source\repos\mp3\mp3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\NURCAN\source\repos\mp3\mp3\obj\Debug\mp3.exe
+C:\Users\NURCAN\source\repos\mp3\mp3\obj\Debug\mp3.pdb
